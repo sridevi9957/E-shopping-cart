@@ -1,0 +1,58 @@
+const products = [
+  {
+    id: 1,
+    name: "Wooden Chair",
+    price: 99$,
+    image: "chair.png",
+    slug: "wooden-chair"
+  },
+  {
+    id: 2,
+    name: "Study Table",
+    price: 199$,
+    image: "table.png",
+    slug: "study-table"
+  },
+  {
+    id: 3,
+    name: "Sofa Set",
+    price: 150$,
+    image: "sofa.png",
+    slug: "sofa-set"
+  },
+  {
+    id: 4,
+    name: "Dining Table",
+    price: 6999,
+    image: "dining.png",
+    slug: "dining-table"
+  },
+  {
+    id: 5,
+    name: "dressing table",
+    price: 100$,
+    image: "dressing.png",
+    slug: "dressing-table"
+  },
+  {
+    id: 6,
+    name: "chair",
+    price: 69$,
+    image: "chair2.png",
+    slug: "chair"
+  },
+  {
+    id: 7,
+    name: "flower table",
+    price: 129$,
+    image: "flower.png",
+    slug: "flower-table"
+  },
+  {
+    id: 8,
+    name: "Cupboard",
+    price: 599$,
+    image: "cuboard.png",
+    slug: "storage-cupboard"
+  }
+];
